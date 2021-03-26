@@ -1,6 +1,6 @@
-Red
-Blue
-Green
+Maroon
+Violet
+Black Knight
 Yellow
 
 Brown 
