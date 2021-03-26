@@ -2,3 +2,10 @@ Red
 Blue
 Green
 Yellow
+
+Brown 
+Purple
+
+Magenta
+Saddam
+Black
